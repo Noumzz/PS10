@@ -2,3 +2,7 @@ This is a simple tip calculator where you can enter the amount and then select h
 PS: Add javafx-sdk to the libray of the project and set the VM accoding to your operating system.
 You can download the javafx libray from https://gluonhq.com/products/javafx/.
 you can see how to setup intellij according to your operating system from https://openjfx.io/openjfx-docs/
+ScreenShots:
+
+![](screenshots/Screenshot1.png)
+![](screenshots/Screenshot2.png)
